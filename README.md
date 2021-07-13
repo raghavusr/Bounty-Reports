@@ -1,1 +1,1 @@
-# Bounty-Reports
+# Bug Hunting Reports
